@@ -12,8 +12,6 @@ Use esta URL diretamente no seu aplicativo ou player IPTV:
 https://ewertonmendes.github.io/tblack-iptv/playlist.m3u
 ```
 
-> O repositório precisa estar **público** para que a URL acima funcione sem autenticação.
-
 ## ▶️ Como usar
 
 1. Abra o seu player IPTV.
@@ -155,15 +153,6 @@ Atualmente este repositório contém apenas a playlist M3U.
 - Alguns canais possuem mais de uma entrada por utilizarem fontes alternativas.
 - Se uma fonte expirar ou ficar indisponível, o canal pode deixar de funcionar até a playlist ser atualizada.
 - O arquivo principal utilizado pelos players é `playlist.m3u`.
-
-## 📁 Estrutura sugerida
-
-```text
-tblack-iptv/
-├── playlist.m3u
-├── README.md
-└── epg.xml        # opcional, caso seja adicionado um EPG futuramente
-```
 
 ---
 

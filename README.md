@@ -9,7 +9,7 @@ Playlist M3U organizada para uso em players compatíveis com IPTV.
 Use esta URL diretamente no seu aplicativo ou player IPTV:
 
 ```text
-https://raw.githubusercontent.com/ewertonmendes/tblack-iptv/main/playlist.m3u
+https://ewertonmendes.github.io/tblack-iptv/playlist.m3u
 ```
 
 > O repositório precisa estar **público** para que a URL acima funcione sem autenticação.

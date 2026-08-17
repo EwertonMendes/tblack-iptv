@@ -2,7 +2,7 @@
 
 Playlist M3U organizada para uso em players compatíveis com IPTV.
 
-> **Playlist atual:** 68 entradas / 65 nomes de canais distintos.
+> **Playlist atual:** 102 entradas / 101 nomes de canais distintos.
 
 ## 🔗 URL da playlist
 
@@ -24,37 +24,42 @@ Também é possível abrir o arquivo `playlist.m3u` diretamente em players que a
 ## 📚 Guia de canais
 
 <details>
-<summary><strong>📡 TV aberta</strong> (5)</summary>
+<summary><strong>📡 TV aberta</strong> (38)</summary>
 
+- Agro+
 - Band
-- Globo — fonte 1
-- Globo — fonte 2
-- Record
+- Band — fonte alternativa
+- Globo
+- Globo — fontes alternativas (26)
+- Globo RJ
+- Globo SP
+- RedeTV
 - SBT
+- SBT — fonte alternativa
+- TV Aparecida
+- TV Brasil
+- TV Cultura
 
 </details>
 
 <details>
-<summary><strong>📰 Notícias</strong> (3)</summary>
+<summary><strong>📰 Notícias</strong> (5)</summary>
 
-- Band News
-- CNN Brasil
-- Globo News
+- Band News 2
+- Band News — fonte alternativa
+- CNN Brasil — fonte alternativa
+- Record News
+- SBT News
 
 </details>
 
 <details>
-<summary><strong>⚽ Esportes</strong> (18)</summary>
+<summary><strong>⚽ Esportes</strong> (13)</summary>
 
-- BandSports
-- Combate
 - ESPN
-- ESPN 2
-- ESPN 3
-- ESPN 4
+- NSports
 - Premiere 2
 - Premiere 3
-- Premiere 4
 - Premiere 5
 - Premiere 6
 - Premiere 7
@@ -68,23 +73,29 @@ Também é possível abrir o arquivo `playlist.m3u` diretamente em players que a
 </details>
 
 <details>
-<summary><strong>🎬 Filmes & Séries</strong> (27)</summary>
+<summary><strong>🎬 Filmes & Séries</strong> (31)</summary>
 
-- A&E
 - AXN
 - Cinemax
+- Cinemax — fonte alternativa
 - HBO
+- HBO — fonte alternativa
 - HBO 2
-- HBO Family
+- HBO 2 — fonte alternativa
+- HBO Family — fonte alternativa
 - HBO Mundi
-- HBO Plus
+- HBO Plus — fonte alternativa
 - HBO Pop
+- HBO Pop — fonte alternativa
+- HBO Signature — fonte alternativa
 - HBO Xtreme
+- HBO Xtreme — fonte alternativa
 - Megapix
-- Paramount Plus — fonte 1
-- Paramount Plus — fonte 2
+- Paramount Plus
 - Prime Video 1
-- Prime Video 2
+- Prime Video 3
+- Sony Channel
+- Sony Movies
 - Space
 - Studio Universal — fonte 1
 - Studio Universal — fonte 2
@@ -93,18 +104,17 @@ Também é possível abrir o arquivo `playlist.m3u` diretamente em players que a
 - Telecine Fun
 - Telecine Pipoca
 - Telecine Premium
-- Telecine Touch
 - TNT
-- Universal Channel
-- Universal TV
+- Warner TV
 
 </details>
 
 <details>
-<summary><strong>🧒 Infantil</strong> (4)</summary>
+<summary><strong>🧒 Infantil</strong> (5)</summary>
 
 - Cartoon Network
 - Cartoonito
+- Cartoonito — fonte alternativa
 - Discovery Kids
 - Gloob
 
@@ -114,21 +124,20 @@ Também é possível abrir o arquivo `playlist.m3u` diretamente em players que a
 <summary><strong>🌎 Documentários & Lifestyle</strong> (8)</summary>
 
 - Animal Planet
-- Discovery Home & Health
+- Dicovery Home & Health
 - Discovery Channel
 - Discovery Science
 - Discovery Turbo
 - H2
 - HGTV
-- History
+- Sabor e Arte
 
 </details>
 
 <details>
-<summary><strong>🎵 Entretenimento</strong> (3)</summary>
+<summary><strong>🎵 Entretenimento</strong> (2)</summary>
 
-- Adult Swim
-- MTV
+- Arte1
 - Multishow
 
 </details>

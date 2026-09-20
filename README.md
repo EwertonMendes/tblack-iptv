@@ -166,3 +166,10 @@ Atualmente este repositório contém apenas a playlist M3U.
 ---
 
 **Tblack IPTV**
+
+
+## Compatibilidade com TblackTV
+
+As URLs de streams publicadas como `.txt` recebem o fragmento local `#/file.txt`. Esse fragmento não é enviado ao servidor HTTP, então o stream original continua sendo requisitado normalmente, mas mantém compatibilidade com instalações antigas do TblackTV v0.4.3 que reconhecem esse formato.
+
+Um workflow do repositório reaplica essa normalização automaticamente sempre que `playlist.m3u` for atualizada, evitando que uma atualização periódica remova a compatibilidade.

@@ -1,44 +1,44 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a-e",A&E
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt#/file.txt
 #EXTINF:-1 tvg-id="a-e-2",A&E
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ae.txt#/file.txt
 #EXTINF:-1 tvg-id="adult-swim",Adult Swim
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/adultswim.txt#/file.txt
 #EXTINF:-1 tvg-id="amc",AMC
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/amc.txt#/file.txt
 #EXTINF:-1 tvg-id="animal-planet",Animal Planet
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/animalplanet.txt#/file.txt
 #EXTINF:-1 tvg-id="axn",AXN
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/axn.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/axn.txt#/file.txt
 #EXTINF:-1 tvg-id="band",Band
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/band.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/band.txt#/file.txt
 #EXTINF:-1 tvg-id="bandsports",BandSports
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsports.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/bandsports.txt#/file.txt
 #EXTINF:-1 tvg-id="cartoon-network",Cartoon Network
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonnetwork.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonnetwork.txt#/file.txt
 #EXTINF:-1 tvg-id="cartoonito",Cartoonito
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/cartoonito.txt#/file.txt
 #EXTINF:-1 tvg-id="cnn-brasil-alternativo",CNN Brasil Alternativo
 https://origin-fast.b-cdn.net/CNN_BRASIL/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="combate",Combate
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/combate.txt#/file.txt
 #EXTINF:-1 tvg-id="dicovery-home-health",Dicovery Home & Health
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryhh.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryhh.txt#/file.txt
 #EXTINF:-1 tvg-id="discovery-channel",Discovery Channel
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverychannel.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverychannel.txt#/file.txt
 #EXTINF:-1 tvg-id="discovery-kids",Discovery Kids
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverykids.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoverykids.txt#/file.txt
 #EXTINF:-1 tvg-id="discovery-turbo",Discovery Turbo
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryturbo.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/discoveryturbo.txt#/file.txt
 #EXTINF:-1 tvg-id="espn",ESPN
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn.txt#/file.txt
 #EXTINF:-1 tvg-id="espn-2",ESPN 2
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn2.txt#/file.txt
 #EXTINF:-1 tvg-id="espn-3",ESPN 3
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn3.txt#/file.txt
 #EXTINF:-1 tvg-id="espn-4",ESPN 4
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn4.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/espn4.txt#/file.txt
 #EXTINF:-1 tvg-id="globo",Globo
 https://live-01.edge-vtal-gig-rj.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12dGFsLWdpZy1yai52aWRlby5nbG9iby5jb20iLCJleHAiOjE3OTE1MTgzNzgsImlhdCI6MTc5MTQ5Njc3OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI3OGNiMGNhZC04Yjk5LTQxMDUtOTM4MC03Zjg1OWM2ZGM4YTAiLCJwYXRoIjoiL2xpdmUvZihpPTIpL2dsb2JvLXJqL3BsYXlsaXN0Lm0zdTgifQ.SacYIjiNM2E6gRI64SqHe42Y4auL0UaJMf14KVFI7gcK-eZdhip1PfaUm0pL6PCBszVadF5Tem7aufcYCunu6l-3B-U_hN1arkGtMKQKzJK9D4p0MDoRKZvu9FEqaIGoOB3T40rZA9_tP43zfCNS4w-_AQv85ywGNWjvrXjxql1NnOANCg1_Tp0nfAnOW5LQij6UnY69WIYNGDlp09eREnfPwQIrm3bGOgaSmjnpQr4REkHinlfhJ7NT6vvkU39heHEUbIo8Q_3cIwmMNFkOabQEPJop4Gp6AWeDm27HqeWKZwdOmh9EKFgLfmbSxUPd6rX8pbN3zQUsQ1NvcfNIyQ/live/f(i=2)/globo-rj/globo-rj-audio_1=128000-video=3632000.m3u8
 #EXTINF:-1 tvg-id="globo-alternativo",Globo Alternativo
@@ -90,90 +90,90 @@ https://live-cm-ah-10-41.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0e
 #EXTINF:-1 tvg-id="globo-alternativo-26",Globo Alternativo 26
 https://live-cm-ah-24-31.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtY20tYWgtMjQtMzEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzkxNTE4Mzg5LCJpYXQiOjE3OTE0OTY3ODksImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiOTkxYTk3ODItYmQ3YS00NDUxLTk1NTYtZjFkMjhjODY4MGZhIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1wYWwvcGxheWxpc3QubTN1OCJ9.fvUHrifUpbfrcsOqMgY7F6ieACj1NOdKqMJPfOYwEwnczoxK871VmQmw2xfsiJcs456zrH9ktkgweTnXXXNqGKk5LgFHDqwsqjXe2yckQoAPH2KuPLwD6dOHQK3O5uPw1l6ypqbuutvv4Jg0g9BpEYuH6OwGTUuvYXZzPxeI08_ZGvFJ67-XnASngffai4nHAJ9lpQaOzOuPKYQLI9ne8MRNyTi9Hr1szEOQOGyNjyNdjBeHcIgspQoTWo5yOtOLH4ivZZODXAagMq6DGP9FBlk3O9HOOe5HSfeamwgtjoeQCWJpV0KXgadtLn5F6VSNwyHBOhWDP_BcPf5FTRKSdg/live/f(i=2)/globo-pal/globo-pal-audio_1=96000-video=2262976.m3u8
 #EXTINF:-1 tvg-id="globo-news",Globo News
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globonews.txt#/file.txt
 #EXTINF:-1 tvg-id="globo-2",Globo RJ
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globorj.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globorj.txt#/file.txt
 #EXTINF:-1 tvg-id="globo-1",Globo SP
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/globosp.txt#/file.txt
 #EXTINF:-1 tvg-id="gloob",Gloob
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/gloob.txt#/file.txt
 #EXTINF:-1 tvg-id="h2",H2
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/history2.txt#/file.txt
 #EXTINF:-1 tvg-id="hbo",HBO
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo.txt#/file.txt
 #EXTINF:-1 tvg-id="hbo-2",HBO 2
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo2.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbo2.txt#/file.txt
 #EXTINF:-1 tvg-id="hbo-family",HBO Family
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbofamily.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbofamily.txt#/file.txt
 #EXTINF:-1 tvg-id="hbo-mundi",HBO Mundi
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbomundi.txt#/file.txt
 #EXTINF:-1 tvg-id="hbo-pop",HBO Pop
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopop.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hbopop.txt#/file.txt
 #EXTINF:-1 tvg-id="hgtv",HGTV
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/hgtv.txt#/file.txt
 #EXTINF:-1 tvg-id="history",History
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/history.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/history.txt#/file.txt
 #EXTINF:-1 tvg-id="megapix",Megapix
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/megapix.txt#/file.txt
 #EXTINF:-1 tvg-id="mtv",MTV
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/mtv.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/mtv.txt#/file.txt
 #EXTINF:-1 tvg-id="multishow",Multishow
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/multishow.txt#/file.txt
 #EXTINF:-1 tvg-id="nsports",NSports
 https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="paramount-plus-1",Paramount Plus
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/paramountplus.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-2",Premiere 2
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere2.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-3",Premiere 3
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere3.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-4",Premiere 4
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere4.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-5",Premiere 5
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere5.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-7",Premiere 7
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere7.txt#/file.txt
 #EXTINF:-1 tvg-id="premiere-clubes",Premiere Clubes
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/premiere.txt#/file.txt
 #EXTINF:-1 tvg-id="prime-video-1",Prime Video 1
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/primevideo.txt#/file.txt
 #EXTINF:-1 tvg-id="prime-video-2",Prime Video 2
-https://tepirogi.pamonha.shop/docs/navio95/__index.txt?token=eyJ2IjoyLCJzdCI6MSwicyI6Im5hdmlvOTUiLCJwIjoieG4tLXo4anpjYjJlaDVkM2J4b3NhYTJ0YjJvdjUwM2J2cGNqeDBiNHI1YmJjemJ2MTRlYnRhLmNvbWV1bWFtYW8ubW9uc3RlciIsInBhdGgiOiIvbmF2aW85NS9pbmRleC50eHQiLCJlIjoxNzkxNDk3MTEzLCJqIjoiMDhhZjAwMmMtNzEyYS00NDFjLTlkYTEtNTQ0ZWNjNmIzMjEwIiwiaWF0IjoxNzkxNDk2ODEzLCJycyI6InByaW1ldmlkZW8yIiwibmIiOiI2ZWY3OTFiZDBkZTFlNGJkMDVjNjhkNzg4ODhhYjZhZjkxZTVmODA5YjZlODNhZDI2YmJhNDk0YmRiNTA0Yjg4IiwibmYiOjR9.85f931bf7c2dfbeb68ec9ab7c1654fc7ecea0d51b574a110fd668f4e59400fbf
+https://tepirogi.pamonha.shop/docs/navio95/__index.txt?token=eyJ2IjoyLCJzdCI6MSwicyI6Im5hdmlvOTUiLCJwIjoieG4tLXo4anpjYjJlaDVkM2J4b3NhYTJ0YjJvdjUwM2J2cGNqeDBiNHI1YmJjemJ2MTRlYnRhLmNvbWV1bWFtYW8ubW9uc3RlciIsInBhdGgiOiIvbmF2aW85NS9pbmRleC50eHQiLCJlIjoxNzkxNDk3MTEzLCJqIjoiMDhhZjAwMmMtNzEyYS00NDFjLTlkYTEtNTQ0ZWNjNmIzMjEwIiwiaWF0IjoxNzkxNDk2ODEzLCJycyI6InByaW1ldmlkZW8yIiwibmIiOiI2ZWY3OTFiZDBkZTFlNGJkMDVjNjhkNzg4ODhhYjZhZjkxZTVmODA5YjZlODNhZDI2YmJhNDk0YmRiNTA0Yjg4IiwibmYiOjR9.85f931bf7c2dfbeb68ec9ab7c1654fc7ecea0d51b574a110fd668f4e59400fbf#/file.txt
 #EXTINF:-1 tvg-id="record",Record
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/record.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/record.txt#/file.txt
 #EXTINF:-1 tvg-id="record-news",Record News
 https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="sbt-alternativo",SBT Alternativo
 https://d1jvs4svzaqp8n.cloudfront.net/channel_720.m3u8
 #EXTINF:-1 tvg-id="space",Space
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/space.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/space.txt#/file.txt
 #EXTINF:-1 tvg-id="sportv-1",Sportv 1
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv.txt#/file.txt
 #EXTINF:-1 tvg-id="sportv-2",Sportv 2
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv2.txt#/file.txt
 #EXTINF:-1 tvg-id="sportv-3",Sportv 3
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/sportv3.txt#/file.txt
 #EXTINF:-1 tvg-id="studio-universal",Studio Universal
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt#/file.txt
 #EXTINF:-1 tvg-id="studio-universal-2",Studio Universal
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/studiouniversal.txt#/file.txt
 #EXTINF:-1 tvg-id="telecine-action",Telecine Action
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecineaction.txt#/file.txt
 #EXTINF:-1 tvg-id="telecine-cult",Telecine Cult
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinecult.txt#/file.txt
 #EXTINF:-1 tvg-id="telecine-fun",Telecine Fun
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinefun.txt#/file.txt
 #EXTINF:-1 tvg-id="telecine-premium",Telecine Premium
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinepremium.txt#/file.txt
 #EXTINF:-1 tvg-id="telecine-touch",Telecine Touch
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/telecinetouch.txt#/file.txt
 #EXTINF:-1 tvg-id="tnt",TNT
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/tnt.txt#/file.txt
 #EXTINF:-1 tvg-id="ufc-fight-pass",UFC Fight Pass
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/ufcfightpass.txt#/file.txt
 #EXTINF:-1 tvg-id="universal-channel",Universal Channel
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/universaltv.txt#/file.txt
 #EXTINF:-1 tvg-id="xsports",XSports
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt#/file.txt
 #EXTINF:-1 tvg-id="xsports-2",XSPORTS
-https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt
+https://ff31a6aa978368a0d5990e1c2ecc1fc2.s23-cloudfront-net.lat/8e8e8b142192ea65/xsports.txt#/file.txt
